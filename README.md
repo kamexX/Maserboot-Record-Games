@@ -1,4 +1,4 @@
-# Anleitung: Ein Spiel im Master Boot Record (MBR) programmieren
+# Spiel im Master Boot Record (MBR) programmieren
 
 ## Überblick
 
